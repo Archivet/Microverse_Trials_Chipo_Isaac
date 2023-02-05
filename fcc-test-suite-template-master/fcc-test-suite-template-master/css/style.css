@@ -2,9 +2,10 @@
 
 }
 #title{
-position: center;
+position: relative;
 font-size: 50px;
 color:coral;
+left: 400px;
 }
 #img-div{
   
@@ -16,4 +17,8 @@ justify-content:center;
 }
 img {
 display: block;
+}
+h1{
+  position: relative;
+  left: 300px;
 }
