@@ -7,10 +7,11 @@
 #img-div{
   
 }
-#image{
-  max-width: 100%;
-  height: auto;
-  position: center;
-
-
+#image {
+max-width:100%;
+height: auto;
+justify-content:center;
+}
+img {
+display: block;
 }
